@@ -1,6 +1,7 @@
 # Tick
 
 A weekly to do list menu bar application for macos written in swift and licenced under a FreddBSD Licence.
+The application will open on your list for today, gather uncompleted tasks to todays list, clear completed tasks.
 
 ![Test Image 1](Images/tick-blank.png)
 
